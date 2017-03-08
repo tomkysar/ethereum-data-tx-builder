@@ -1,0 +1,6 @@
+{
+  "name": "Ethereum-Data-TX-Builder",
+  "description": "Script to build raw ETH tx's (with data), sign, and broadcast with BlockCypher.",
+  "repository": "https://github.com/tomkysar/Ethereum-Data-TX-Builder",
+  "keywords": ["ethereum", "anchoring", "data"]
+}

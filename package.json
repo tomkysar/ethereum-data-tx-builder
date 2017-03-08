@@ -1,0 +1,28 @@
+{
+  "name": "Ethereum-Data-TX-Builder",
+  "version": "0.2.0",
+  "description": "Script to build raw ETH tx's (with data), sign, and broadcast with BlockCypher.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethereumjs-tx": "1.1.2",
+    "express": "4.13.3",
+    "request": "2.74.0"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomkysar/Ethereum-Data-TX-Builder"
+  },
+  "keywords": [
+   "ethereum",
+   "anchoring", 
+   "data"
+  ],
+  "author": "Tom Kysar",
+  "license": "MIT"
+}
